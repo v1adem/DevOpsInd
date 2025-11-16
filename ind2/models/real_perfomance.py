@@ -1,0 +1,12 @@
+from ind2.models.perfomance import Performance
+
+
+class RealPerformance(Performance):
+    def __init__(self, subjects: list[str], real_grades: list[int]):
+        super().__init__(subjects, real_grades)
+
+    def average_grade(self) -> float:
+        grades = super().get_grades()
+        if not grades:
+            return 0
+        return sum(grades) / len(grades)
