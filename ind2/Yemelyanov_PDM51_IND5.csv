@@ -1,0 +1,28 @@
+Student #1
+Full Name,Group,Birth Date
+Ємельянов Владислав Богданович,ПДМ-51,2004-08-23
+
+Subject,Grade
+DevOps,85
+Python,90
+Average,87.5
+
+Subject,Desired Grade
+DevOps,95
+Python,100
+Desired Average,97.5
+
+Student #2
+Full Name,Group,Birth Date
+Дикало Андрій Юрійович,ПДМ-51,2004-10-17
+
+Subject,Grade
+DevOps,90
+Python,90
+Average,90.0
+
+Subject,Desired Grade
+DevOps,98
+Python,100
+Desired Average,99.0
+

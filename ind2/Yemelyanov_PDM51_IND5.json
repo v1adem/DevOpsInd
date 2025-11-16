@@ -1,0 +1,60 @@
+[
+    {
+        "student": {
+            "full_name": "Ємельянов Владислав Богданович",
+            "group": "ПДМ-51",
+            "date_of_birth": "2004-08-23"
+        },
+        "real_performance": {
+            "subjects": [
+                "DevOps",
+                "Python"
+            ],
+            "grades": [
+                85,
+                90
+            ],
+            "average_grade": 87.5
+        },
+        "desired_performance": {
+            "subjects": [
+                "DevOps",
+                "Python"
+            ],
+            "grades": [
+                95,
+                100
+            ],
+            "average_grade": 97.5
+        }
+    },
+    {
+        "student": {
+            "full_name": "Дикало Андрій Юрійович",
+            "group": "ПДМ-51",
+            "date_of_birth": "2004-10-17"
+        },
+        "real_performance": {
+            "subjects": [
+                "DevOps",
+                "Python"
+            ],
+            "grades": [
+                90,
+                90
+            ],
+            "average_grade": 90.0
+        },
+        "desired_performance": {
+            "subjects": [
+                "DevOps",
+                "Python"
+            ],
+            "grades": [
+                98,
+                100
+            ],
+            "average_grade": 99.0
+        }
+    }
+]

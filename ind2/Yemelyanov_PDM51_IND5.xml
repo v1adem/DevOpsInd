@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Students>
+    <StudentData>
+        <Student>
+            <full_name>Ємельянов Владислав Богданович</full_name>
+            <group>ПДМ-51</group>
+            <birthdate>2004-08-23</birthdate>
+        </Student>
+        <RealPerformance>
+            <subjects>['DevOps', 'Python']</subjects>
+            <grades>[85, 90]</grades>
+            <average>87.5</average>
+        </RealPerformance>
+        <DesiredPerformance>
+            <desired_grades>[95, 100]</desired_grades>
+            <desired_average>97.5</desired_average>
+        </DesiredPerformance>
+    </StudentData>
+    <StudentData>
+        <Student>
+            <full_name>Дикало Андрій Юрійович</full_name>
+            <group>ПДМ-51</group>
+            <birthdate>2004-10-17</birthdate>
+        </Student>
+        <RealPerformance>
+            <subjects>['DevOps', 'Python']</subjects>
+            <grades>[90, 90]</grades>
+            <average>90.0</average>
+        </RealPerformance>
+        <DesiredPerformance>
+            <desired_grades>[98, 100]</desired_grades>
+            <desired_average>99.0</desired_average>
+        </DesiredPerformance>
+    </StudentData>
+</Students>
