@@ -9,11 +9,11 @@ def analyze_string(string):
         raise TypeError("'string' - must be of type str")
     else:
         if string.isupper():
-            print(f"String {string} in uppercase")
+            print(f"String '{string}' in uppercase")
         elif string.islower():
-            print(f"String {string} in lowercase")
+            print(f"String '{string}' in lowercase")
         else:
-            print(f"String {string} is mixed")
+            print(f"String '{string}' is mixedcase")
 
 
 def to_uppercase(string):
