@@ -26,5 +26,5 @@ students_data = [
 ]
 
 JsonSaver().save(students_data, BASE_PATH + ".json")
-#XMLSaver().save(students_data, BASE_PATH + ".xml")
+XMLSaver().save(students_data, BASE_PATH + ".xml")
 CSVSaver().save(students_data, BASE_PATH + ".csv")
